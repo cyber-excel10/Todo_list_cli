@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["adding_new_task","check_pin","create_pin","main","removing_task","task_completed","task_list"],"struct":["Task"]};
