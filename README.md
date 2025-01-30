@@ -1,3 +1,5 @@
+# To Do List Cli
+
 *Welcome to the Excel To Do List Application built in Rust! This is a simple terminal-based application designed to help you manage your tasks. With the ability to add, view, mark as completed, and remove tasks, this application is perfect for keeping track of your daily tasks.
 
 *The key features of this simple terminal-based application are:
